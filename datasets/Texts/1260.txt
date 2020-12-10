@@ -13,7 +13,7 @@ Title: Jane Eyre
 Author: Charlotte Brontë
 
 Release Date: March, 1998 [EBook #1260]
-[Most recently updated: November 27, 2020]
+[Most recently updated: December 1, 2020]
 
 Language: English
 
@@ -113,7 +113,7 @@ gilding, and show base metal under it—to penetrate the sepulchre, and
 reveal charnel relics: but hate as it will, it is indebted to him.
 
 Ahab did not like Micaiah, because he never prophesied good concerning
-him, but evil; probably he liked the sycophant son of Chenaannah
+him, but evil; probably he liked the sycophant son of Chenaanah
 better; yet might Ahab have escaped a bloody death, had he but stopped
 his ears to flattery, and opened them to faithful counsel.
 
@@ -4562,8 +4562,8 @@ years, learnt a portion of French by heart daily—applying myself to
 take pains with my accent, and imitating as closely as possible the
 pronunciation of my teacher, I had acquired a certain degree of
 readiness and correctness in the language, and was not likely to be
-much at a loss with Mademoiselle Adela. She came and shook hand with me
-when she heard that I was her governess; and as I led her in to
+much at a loss with Mademoiselle Adela. She came and shook hands with
+me when she heard that I was her governess; and as I led her in to
 breakfast, I addressed some phrases to her in her own tongue: she
 replied briefly at first, but after we were seated at the table, and
 she had examined me some ten minutes with her large hazel eyes, she
@@ -12314,7 +12314,7 @@ company—for life.”
 Adèle, when lifted in, commenced kissing me, by way of expressing her
 gratitude for my intercession: she was instantly stowed away into a
 corner on the other side of him. She then peeped round to where I sat;
-so stern a neighbour was too restrictive to him, in his present
+so stern a neighbour was too restrictive: to him, in his present
 fractious mood, she dared whisper no observations, nor ask of him any
 information.
 
@@ -13702,7 +13702,7 @@ storm had whirled over June; ice glazed the ripe apples, drifts crushed
 the blowing roses; on hayfield and cornfield lay a frozen shroud: lanes
 which last night blushed full of flowers, to-day were pathless with
 untrodden snow; and the woods, which twelve hours since waved leafy and
-flagrant as groves between the tropics, now spread, waste, wild, and
+fragrant as groves between the tropics, now spread, waste, wild, and
 white as pine-forests in wintry Norway. My hopes were all dead—struck
 with a subtle doom, such as, in one night, fell on all the first-born
 in the land of Egypt. I looked on my cherished wishes, yesterday so
@@ -20276,7 +20276,7 @@ them grow as broad and black as ever.
 “Where is the use of doing me good in any way, beneficent spirit, when,
 at some fatal moment, you will again desert me—passing like a shadow,
 whither and how to me unknown, and for me remaining afterwards
-undiscoverable?
+undiscoverable?”
 
 “Have you a pocket-comb about you, sir?”
 

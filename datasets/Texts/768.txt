@@ -12,7 +12,7 @@ Title: Wuthering Heights
 Author: Emily Brontë
 
 Release Date: December, 1996 [Etext #768]
-[Most recently updated: September 9, 2020]
+[Most recently updated: December 4, 2020]
 
 Language: English
 
@@ -700,7 +700,7 @@ date some quarter of a century back.
 I shut it, and took up another and another, till I had examined all.
 Catherine’s library was select, and its state of dilapidation proved it
 to have been well used, though not altogether for a legitimate purpose:
-scarcely one chapter had escaped, a pen-and-ink commentary—at least the
+scarcely one chapter had escaped a pen-and-ink commentary—at least the
 appearance of one—covering every morsel of blank that the printer had
 left. Some were detached sentences; other parts took the form of a
 regular diary, scrawled in an unformed, childish hand. At the top of an
@@ -1635,7 +1635,7 @@ and when I went to call them to supper, I could discover them nowhere.
 We searched the house, above and below, and the yard and stables; they
 were invisible: and, at last, Hindley in a passion told us to bolt the
 doors, and swore nobody should let them in that night. The household
-went to bed; and I, too, anxious to lie down, opened my lattice and put
+went to bed; and I, too anxious to lie down, opened my lattice and put
 my head out to hearken, though it rained: determined to admit them in
 spite of the prohibition, should they return. In a while, I
 distinguished steps coming up the road, and the light of a lantern
@@ -2418,7 +2418,7 @@ the boy. “I’ll not work any more to-day: I’ll stay with you.”
 “Joseph is loading lime on the further side of Penistone Crags; it will
 take him till dark, and he’ll never know.”
 
-So, saying, he lounged to the fire, and sat down. Catherine reflected
+So saying, he lounged to the fire, and sat down. Catherine reflected
 an instant, with knitted brows—she found it needful to smooth the way
 for an intrusion. “Isabella and Edgar Linton talked of calling this
 afternoon,” she said, at the conclusion of a minute’s silence. “As it
@@ -2459,7 +2459,7 @@ muttered.
 Her companion rose up, but he hadn’t time to express his feelings
 further, for a horse’s feet were heard on the flags, and having knocked
 gently, young Linton entered, his face brilliant with delight at the
-unexpected summon she had received. Doubtless Catherine marked the
+unexpected summon he had received. Doubtless Catherine marked the
 difference between her friends, as one came in and the other went out.
 The contrast resembled what you see in exchanging a bleak, hilly, coal
 country for a beautiful fertile valley; and his voice and greeting were
@@ -3698,7 +3698,7 @@ reason. When have I been harsh, tell me?”
 while you sauntered on with Mr. Heathcliff!”
 
 “And that’s your notion of harshness?” said Catherine, laughing. “It
-was no hint that your company was superfluous? We didn’t care whether
+was no hint that your company was superfluous: we didn’t care whether
 you kept with us or not; I merely thought Heathcliff’s talk would have
 nothing entertaining for your ears.”
 
@@ -4080,7 +4080,7 @@ draw the bolts against you!”
 him just then. “God keep him meek and patient! Every day I grow madder
 after sending him to heaven!”
 
-“Hush!” said Catherine, shutting the inner door! “Don’t vex me. Why
+“Hush!” said Catherine, shutting the inner door. “Don’t vex me. Why
 have you disregarded my request? Did she come across you on purpose?”
 
 “What is it to you?” he growled. “I have a right to kiss her, if she
@@ -4481,7 +4481,7 @@ I went here and there collecting it.
 
 “I see in you, Nelly,” she continued dreamily, “an aged woman: you have
 grey hair and bent shoulders. This bed is the fairy cave under
-Penistone crags, and you are gathering elf-bolts to hurt our heifers;
+Penistone Crags, and you are gathering elf-bolts to hurt our heifers;
 pretending, while I am near, that they are only locks of wool. That’s
 what you’ll come to fifty years hence: I know you are not so now. I’m
 not wandering: you’re mistaken, or else I should believe you really
@@ -4833,7 +4833,7 @@ Gimmerton, came panting upstairs, open-mouthed, and dashed into the
 chamber, crying: “Oh, dear, dear! What mun we have next? Master,
 master, our young lady—”
 
-“Hold your noise!” cried, I hastily, enraged at her clamorous manner.
+“Hold your noise!” cried I hastily, enraged at her clamorous manner.
 
 “Speak lower, Mary—What is the matter?” said Mr. Linton. “What ails
 your young lady?”
@@ -6174,7 +6174,7 @@ on my knee; rocking it to and fro, and watching, meanwhile, the still
 driving flakes build up the uncurtained window, when the door opened,
 and some person entered, out of breath and laughing! My anger was
 greater than my astonishment for a minute. I supposed it one of the
-maids, and I cried—“Have done! How dare you show your giddiness here;
+maids, and I cried—“Have done! How dare you show your giddiness here?
 What would Mr. Linton say if he heard you?”
 
 “Excuse me!” answered a familiar voice; “but I know Edgar is in bed,
@@ -6607,7 +6607,7 @@ fear to hazard another sound of derision.
 hardly intelligible.
 
 “‘I beg your pardon,’ I replied. ‘But I loved Catherine too; and her
-brother requires attendance, which, for her sake, I shall supply. Now,
+brother requires attendance, which, for her sake, I shall supply. Now
 that she’s dead, I see her in Hindley: Hindley has exactly her eyes, if
 you had not tried to gouge them out, and made them black and red; and
 her—’
@@ -6940,7 +6940,7 @@ maintenance or education. My master hesitated not a moment in complying
 with her request: reluctant as he was to leave home at ordinary calls,
 he flew to answer this; commanding Catherine to my peculiar vigilance,
 in his absence, with reiterated orders that she must not wander out of
-the park, even under my escort he did not calculate on her going
+the park, even under my escort: he did not calculate on her going
 unaccompanied.
 
 He was away three weeks. The first day or two my charge sat in a corner
@@ -7248,7 +7248,7 @@ impossible: she couldn’t be still a minute.
 
 “How long they are!” she exclaimed. “Ah, I see, some dust on the
 road—they are coming! No! When will they be here? May we not go a
-little way—half a mile, Ellen, only just half a mile? Do say Yes: to
+little way—half a mile, Ellen, only just half a mile? Do say yes: to
 that clump of birches at the turn!”
 
 I refused staunchly. At length her suspense was ended: the travelling
@@ -7675,7 +7675,7 @@ lessons and spent his evenings in a small apartment they called the
 parlour: or else lay in bed all day: for he was constantly getting
 coughs, and colds, and aches, and pains of some sort.
 
-“And I never know such a fainthearted creature,” added the woman; “nor
+“And I never knew such a fainthearted creature,” added the woman; “nor
 one so careful of hisseln. He _will_ go on, if I leave the window open
 a bit late in the evening. Oh! it’s killing, a breath of night air! And
 he must have a fire in the middle of summer; and Joseph’s bacca-pipe is
@@ -8052,7 +8052,7 @@ without one. Do try to behave like a gentleman, now do!”
 
 “If thou weren’t more a lass than a lad, I’d fell thee this minute, I
 would; pitiful lath of a crater!” retorted the angry boor, retreating,
-while his face burnt with mingled rage and mortification! for he was
+while his face burnt with mingled rage and mortification; for he was
 conscious of being insulted, and embarrassed how to resent it.
 
 Mr. Heathcliff having overheard the conversation, as well as I, smiled
@@ -8113,12 +8113,12 @@ I took precautions that you should not see Linton again. I meant to
 explain this some time as you grew older, and I’m sorry I delayed it.”
 
 “But Mr. Heathcliff was quite cordial, papa,” observed Catherine, not
-at all convinced; “and he didn’t object to our seeing each other: he
+at all convinced; “and _he_ didn’t object to our seeing each other: he
 said I might come to his house when I pleased; only I must not tell
 you, because you had quarrelled with him, and would not forgive him for
 marrying aunt Isabella. And you won’t. _You_ are the one to be blamed:
-he is willing to let us be friends, at least; Linton and I; and you are
-not.”
+he is willing to let _us_ be friends, at least; Linton and I; and you
+are not.”
 
 My master, perceiving that she would not take his word for her
 uncle-in-law’s evil disposition, gave a hasty sketch of his conduct to
@@ -8893,7 +8893,7 @@ toil in the rear.
 We both reached home before our dinner-time; my master supposed we had
 been wandering through the park, and therefore he demanded no
 explanation of our absence. As soon as I entered I hastened to change
-my soaked shoes and stockings; but sitting such awhile at the Heights
+my soaked shoes and stockings; but sitting such a while at the Heights
 had done the mischief. On the succeeding morning I was laid up, and
 during three weeks I remained incapacitated for attending to my duties:
 a calamity never experienced prior to that period, and never, I am
@@ -8912,7 +8912,7 @@ generally needed nothing after six o’clock, thus the evening was her
 own. Poor thing! I never considered what she did with herself after
 tea. And though frequently, when she looked in to bid me good-night, I
 remarked a fresh colour in her cheeks and a pinkness over her slender
-fingers, instead of fancying the line borrowed from a cold ride across
+fingers, instead of fancying the hue borrowed from a cold ride across
 the moors, I laid it to the charge of a hot fire in the library.
 
 
@@ -9768,8 +9768,8 @@ him, I should say, that instead of rambling with his sweetheart on the
 hills, he ought to be in bed, under the hands of a doctor.”
 
 “He shall be, in a day or two,” muttered Heathcliff. “But first—get up,
-Linton! Get up!” he shouted. “Don’t grovel on the ground there up, this
-moment!”
+Linton! Get up!” he shouted. “Don’t grovel on the ground there: up,
+this moment!”
 
 Linton had sunk prostrate again in another paroxysm of helpless fear,
 caused by his father’s glance towards him, I suppose: there was nothing
